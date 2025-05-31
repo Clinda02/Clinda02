@@ -1,11 +1,11 @@
 <h1>📊 Soim Choe | 데이터 분석가</h1>
 
 <p>
-- 👋 Hi there! I'm <strong>Business Data Analyst</strong> using Python, SQL.
+- 👋 Hi there! I'm <strong>Business Data Analyst</strong> skilled in Python, SQL.
   <br>
- - Interested in <strong>E-commerce</strong> and data-driven customer engagement.
+- 🛒 I'm passionate about <strong>E-commerce</strong> and data-driven customer engagement.
   <br>
-- Experienced in <strong>RFM</strong> and <strong>KMeans</strong> for customer segmentation and targeting.
+- 📊 Experienced in <strong>RFM</strong> and <strong>KMeans</strong> for customer segmentation and targeted strategies.
 
 
 </p>
