@@ -15,7 +15,7 @@
 ![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-FABB05?style=flat-square&logo=googleanalytics&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=beige
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=beige)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)
 
