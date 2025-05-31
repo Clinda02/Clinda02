@@ -5,9 +5,9 @@
   <br>
 - Business Data Analyst skilled in Python and SQL  
    <br>
- - Interested in e-commerce and data-driven customer engagement
+ - Interested in <strong>E-commerce</strong> and data-driven customer engagement
   <br>
-- Experienced in RFM and KMeans for customer segmentation and targeting
+- Experienced in <strong>RFM</strong> and <strong>KMeans</strong> for customer segmentation and targeting
 
 
 </p>
