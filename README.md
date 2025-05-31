@@ -20,9 +20,13 @@
 ### Libraries & Frameworks
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-2E5C6E?style=flat-square)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/-Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 
 ## Experience
