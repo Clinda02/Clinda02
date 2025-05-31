@@ -3,7 +3,6 @@
 <p>
 - 👋 Hi there! I'm <strong>Business Data Analyst</strong> using Python, SQL.
   <br>
-- Business Data Analyst skilled in Python and SQL  
    <br>
  - Interested in <strong>E-commerce</strong> and data-driven customer engagement
   <br>
