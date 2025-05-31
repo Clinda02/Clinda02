@@ -39,28 +39,28 @@
 
 | 날짜 | 수상 내용 |
 |:----:|:----------|
-| 2025.05 | 🥇 청년취업사관학교 데이터 경진대회 **최우수상 (1위)**<br>“세그먼트 기반 우리카드 맞춤형 혜택 기획” |
+| 2025.05 | 🥇 SeSaC 청년취업사관학교 데이터 경진대회 **최우수상 (1위)**<br>“Kmeans 기반 우리카드 맞춤형 상품 기획” |
 
 ---
 
 ## 💼 Experience
 
-**NHN다이퀘스트 | 빅데이터분석부**  
+**㈜NHN다이퀘스트 | 빅데이터분석부**  
 📅 2022.06 ~ 2024.03  
 AICC 솔루션 구축 · 상담 발화 패턴 분석 · 품질 평가 자동화
 
-**라임솔루션 | 인공지능사업부 인턴**  
-📅 2024.07 ~ 2024.08  
-데이터 수집 자동화 및 전처리 시스템 설계
-
-**제이엔비 | 마케팅부 인턴**  
+**㈜제이엔비 | Frosch 마케팅팀**  
 📅 2021.09 ~ 2022.02  
 SNS 콘텐츠 운영, 광고 소재 기획, A/B 테스트 전략 수립
 
+**㈜라임솔루션 | 인공지능사업부 인턴**  
+📅 2024.07 ~ 2024.08  
+데이터 수집 자동화 및 전처리 시스템 설계
 ---
 
 ## 📜 Certifications
 
+- 🗃️ **빅데이터분석기사(필기)** (2025.04)
 - 📘 **Google Analytics** (2024.03)  
 - 🗃️ **SQL 개발자(SQLD)** (2023.12)  
 - 📊 **데이터분석 준전문가(ADsP)** (2023.06)
@@ -90,9 +90,9 @@ SNS 콘텐츠 운영, 광고 소재 기획, A/B 테스트 전략 수립
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soim****&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Clinda02&show_icons=true&theme=default" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soim****&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clinda02&layout=compact" alt="Top Langs" />
 </p>
 
 ---
