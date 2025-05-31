@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🔎 문제를 발견하고 정의하는 **탐색형 분석가**
 - 🔄 데이터 수집 → 정제 → 시각화 → 전략 도출 전 과정을 **직접 수행**
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### 🔨 Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -67,7 +67,7 @@ SNS 콘텐츠 운영, 광고 소재 기획, A/B 테스트 전략 수립
 
 ---
 
-## 🎓 Education & Training
+## Education & Training
 
 **🎓 학력**  
 - 한국외국어대학교 졸업 (2021.08)  
@@ -80,7 +80,7 @@ SNS 콘텐츠 운영, 광고 소재 기획, A/B 테스트 전략 수립
 
 ---
 
-## 📬 Contact
+## Contact
 
 - 📫 Email: **soim****@daum.net**  
 - 🖥️ GitHub: [github.com/soim****](https://github.com/soim****)
