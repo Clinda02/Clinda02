@@ -3,6 +3,10 @@
 <p>
 - 👋 Hi there! I'm <strong>Business Data Analyst</strong> using Python, SQL.
   <br>
+- I'm passionate about e-commerce and how data can drive smarter customer engagement.  
+    <br>
+- I have hands-on experience using RFM and KMeans clustering to segment users and design targeted marketing strategies that improve retention and conversion.
+
 </p>
 
 ---
