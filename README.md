@@ -28,9 +28,3 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-
-## Experience
-
-- ㈜NHN다이퀘스트 빅데이터분석부  (2022-2024) 
-- ㈜제이엔비 Frosch 마케팅팀  (2021-2022)  
-- ㈜라임솔루션 인공지능사업부 인턴 (2024) 
