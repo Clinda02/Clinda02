@@ -1,9 +1,8 @@
 <h1>📊 Soim Choe | 데이터 분석가</h1>
 
 <p>
-- 데이터 기반 비즈니스 문제를 개선해나가는 <strong>데이터 분석가</strong>.
+- Hi there! I'm <strong>Business Data Analyst</strong>. using Python, SQL.
   <br>
-- Python, SQL, 직관적인 인사이트로 고객의 행동을 이해하고 전략으로 연결에 강점.
 </p>
 
 ---
