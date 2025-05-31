@@ -25,17 +25,9 @@
 
 ## Experience
 
-**㈜NHN다이퀘스트 빅데이터분석부**  (2022-2024) | AICC 솔루션 구축 · 상담 발화 패턴 분석 · 품질 평가 자동화
-
-**㈜제이엔비 Frosch 마케팅팀**  (2021-2022)  | SNS 콘텐츠 운영, 광고 소재 기획, A/B 테스트 전략 수립
-
-**㈜라임솔루션 인공지능사업부 인턴** (2024) |  데이터 수집 자동화 및 전처리 시스템 설계
-
-
-## Contact
-
-- 📫 Email: **soim****@daum.net**  
-- 🖥️ GitHub: [github.com/soim****](https://github.com/soim****)
+- **㈜NHN다이퀘스트 빅데이터분석부**  (2022-2024) | AICC 솔루션 구축 · 상담 발화 패턴 분석 · 품질 평가 자동화
+- **㈜제이엔비 Frosch 마케팅팀**  (2021-2022)  | 고객 분석 및 프로모션 기획, CRM 효율성 분석, SNS 광고 A/B 테스트 전략 수립
+- **㈜라임솔루션 인공지능사업부 인턴** (2024) |  데이터 수집 자동화 및 전처리 시스템 설계
 
 ---
 
@@ -43,6 +35,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Clinda02&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clinda02&layout=compact" alt="Top Langs" />
 </p>
