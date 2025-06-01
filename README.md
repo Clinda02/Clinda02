@@ -1,14 +1,15 @@
 <h1>📊 Soim Choe | 데이터 분석가</h1>
 
 <p>
+- Python, SQL 활용하는 <strong>데이터 분석가</strong>.
+<br>
+- <strong>이커머스</strong> 데이터 기반 고객 관리 전략 수립 경험.
+ <br>
+- <strong>RFM, Kmean</strong>s 세그먼트 기반 고객 세분화 및 타게팅 프로젝트 진행.
+  <br>
+  <br>
 - 👋 Hi there! I'm <strong>Business Data Analyst</strong> skilled in Python, SQL.
 <br>
-- Python, SQL 활용하는 데이터 분석가.
-<br>
-- 이커머스 데이터 기반 고객 관리 전략 수립 경험.
- <br>
--RFM, Kmeans 세그먼트 기반 고객 세분화 및 타게팅 프로젝트 진행.
-  <br>
 - 🛒 I'm passionate about <strong>E-commerce</strong> and data-driven customer engagement.
   <br>
 - 📊 Experienced in <strong>RFM</strong> and <strong>KMeans</strong> for customer segmentation and targeted strategies.
