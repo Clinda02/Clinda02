@@ -3,16 +3,9 @@
 <p>
 - 👋 Python, SQL 활용하는 <strong>데이터 분석가</strong>.
 <br>
-- 🛒 <strong>이커머스</strong> 데이터 기반 인사이트 도출 및 <strong>고객 관리 전략</strong> 수립 경험.
+- 🛒 <strong>이커머스</strong> 데이터 기반 인사이트 도출 및 <strong>고객 관리 전략</strong> 수립 경험
  <br>
-- 📊 <strong>RFM, Kmeans</strong> 세그먼트 기반 고객 세분화 및 타게팅 프로젝트 진행.
-  <br>
-  <br>
-- 👋 Hi there! I'm <strong>Business Data Analyst</strong> skilled in Python, SQL.
-<br>
-- 🛒 I'm passionate about <strong>E-commerce</strong> and data-driven customer engagement.
-  <br>
-- 📊 Experienced in <strong>RFM</strong> and <strong>KMeans</strong> for customer segmentation and targeted strategies.
+- 📊 <strong>RFM, Kmeans 세그먼트</strong> 기반 고객 세분화 및 타게팅 프로젝트 진행.
 
 
 </p>
