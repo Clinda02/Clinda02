@@ -1,4 +1,4 @@
-<h1>📊 Soim Choe | 데이터 분석가</h1>
+<h1>🖥 Soim Choe | 데이터 분석가</h1>
 
 <p>
 - 👋 Python, SQL 활용하는 <strong>데이터 분석가</strong>.
