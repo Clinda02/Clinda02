@@ -5,7 +5,7 @@
 <br>
 - 🛒 <strong>이커머스</strong> 데이터 기반 프로모션 기획 및 <strong>상품 품질 향상</strong> 경험
  <br>
-- 📲 구매 행동 패턴 기반 <strong>CRM 타게팅</strong>, A/B 테스트 기반 <Strong>SNS 광고 소재 최적화</Strong> 경험.
+- 📲 구매 행동 패턴 기반 <strong>CRM 타게팅</strong>, A/B 테스트 및 <Strong>SNS 광고 소재 최적화</Strong> 경험.
  <br>
 - 📈 <strong>RFM, Kmeans 세그먼트</strong> 기반 고객 세분화 프로젝트 진행.
 
