@@ -5,7 +5,9 @@
 <br>
 - 🛒 <strong>이커머스</strong> 데이터 기반 인사이트 도출 및 <strong>고객 관리 전략</strong> 수립 경험
  <br>
-- 📈 <strong>RFM, Kmeans 세그먼트</strong> 기반 고객 세분화 및 타게팅 프로젝트 진행.
+- 📲 구매 행동 패턴 기반 <strong>CRM 타게팅</strong>, <strong>A/B 테스트 기반 SNS 광고 소재 최적화</strong> 경험.
+ <br>
+- 📈 <strong>RFM, Kmeans 세그먼트</strong> 기반 고객 세분화 프로젝트 진행.
 
 
 </p>
