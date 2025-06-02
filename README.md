@@ -3,7 +3,7 @@
 <p>
 - 👋 Python, SQL 활용하는 <strong>데이터 분석가</strong>.
 <br>
-- 🛒 <strong>이커머스</strong> 데이터 기반 인사이트 도출 및 <strong>고객 관리 전략</strong> 수립 경험
+- 🛒 <strong>이커머스</strong> 데이터 기반 프로모션 기획 및 <strong>상품 품질 향상</strong> 경험
  <br>
 - 📲 구매 행동 패턴 기반 <strong>CRM 타게팅</strong>, <strong>A/B 테스트 기반 SNS 광고 소재 최적화</strong> 경험.
  <br>
